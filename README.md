@@ -41,5 +41,5 @@ Fork并创建你的分支
 
 *#我支持格子衫#*
 
-*#ISupportPlaidSHirt#*
+*#ISupportPlaidShirt#*
 
