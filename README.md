@@ -1,4 +1,4 @@
-# #DailyDress# #反格子衫标签化# #AgainstPlaidShirtTag#
+# #DailyDress# #反格子衫标签化#
 
 ![GitHub repo size in bytes](https://img.shields.io/github/repo-size/ReadyState/PlaidShirt.svg)
 [![License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)  
@@ -15,7 +15,7 @@
 
 ----
 
-## *反对标签化程序员*
+## *反对格子衫标签化*
 
 >*用最酷的日常着装*
 
@@ -41,7 +41,7 @@ Fork并创建你的分支
 - 在文件夹中可以用README.md 或者README.rst作为描述文件
 - 不正规的以及影响排序的文件夹名字会被清除
 
-*#反格子衫标签化#*
+*#反对格子衫标签化#*
 
 *#AgainstPlaidShirtTag#*
 
