@@ -1,5 +1,8 @@
 # ISupportPlaidShirt / 我支持格子衫
 
+![GitHub repo size in bytes](https://img.shields.io/github/repo-size/ReadyState/PlaidShirt.svg)
+[![License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)  
+
 
 >不知从何时起
 
